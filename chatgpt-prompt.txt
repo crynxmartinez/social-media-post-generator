@@ -1,0 +1,41 @@
+I need you to write content for a LinkedIn carousel post. Each quote will be displayed on its own slide.
+
+RULES:
+- Write exactly [NUMBER] quotes
+- Each quote should be 1-2 sentences max (under 15 words is ideal)
+- Make them punchy, bold, and memorable
+- No hashtags, no emojis
+- Each quote on its own line
+- Topic: [YOUR TOPIC]
+- First line should be a catchy TITLE for the carousel
+
+STYLE:
+- Direct and confident tone
+- Speak to entrepreneurs/professionals
+- Actionable or thought-provoking
+- Similar to how Alex Hormozi or Leila Hormozi write
+
+OUTPUT FORMAT:
+
+=== CAROUSEL SLIDES ===
+[Title on first line, then quotes - one per line, no numbering]
+
+=== LINKEDIN POST ===
+[Write a short engaging post (3-5 lines) to accompany the carousel. Include a hook, brief context, and a call-to-action. Add 3-5 relevant hashtags at the end.]
+
+EXAMPLE OUTPUT:
+
+=== CAROUSEL SLIDES ===
+Hard Truths About Success
+The opportunity you're looking for is in the hard work you're avoiding.
+Success is not about luck, it's about consistency.
+Your future is created by what you do today, not tomorrow.
+
+=== LINKEDIN POST ===
+Most people search for shortcuts. But the real shortcut? Doing the work others avoid.
+
+Swipe through these 3 truths I wish I learned earlier.
+
+Which one hits hardest? Drop it in the comments.
+
+#entrepreneurship #mindset #success #leadership #growthmindset
